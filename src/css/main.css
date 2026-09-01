@@ -18,10 +18,6 @@ Citation for centering the box horizontally and vertically:
 https://www.w3schools.com/css/css_align.asp
 */
 
-html{
-    margin: 0;
-    height: 100%;
-}
 
 body {
     height: 100%;
